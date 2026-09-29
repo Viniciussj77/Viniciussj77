@@ -6,6 +6,29 @@
     <b>Software Engineering Student & Technology Enthusiast</b>
   </p>
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates)](https://git.io/typing-svg)
+
+  <br />
+
+  <!-- Social Badges Minimalistas no Tema Dracula -->
+  <a href="https://www.linkedin.com/in/viniciussj77" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/viniciussj77" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram" />
+  </a>
+  <a href="mailto:vjbezerra2007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail" />
+  </a>
+
+</div>
+
+<br />
+
+---
+
+### 🚀 About Me
+
 ```text
   _             
  | |            "I am not in competition with anyone but myself. 
