@@ -22,9 +22,10 @@
   <a href="https://instagram.com/viniciussj77" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram" />
   </a>
-  <a href="mailto:vjbezerra2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail" />
-  </a>
+ <a href="mailto:vjbezerra2007@gmail.com" target="_blank">
+  <img src="https://shields.io" alt="Gmail" />
+</a>
+
 
 </div>
 
