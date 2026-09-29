@@ -18,7 +18,7 @@
   <img align="Center" alt="Viniciussj77-Docker" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
         <img  align= "Center" alt="Viniciussj77-Linux" height="30"width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
             
     
           
