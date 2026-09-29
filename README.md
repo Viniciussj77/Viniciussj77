@@ -1,16 +1,19 @@
 <div align="center">
 
-  # Hi 👋, I'm Vinícius José
-  > *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
-  > **— Bill Gates**
-  
-  <p align="center">
-    <b>Software Engineering Student | Focus on DevOps & Cloud</b>
-  </p>
+  <h1>Hi 👋, I'm Vinícius José</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates)](https://git.io/typing-svg)
+  <blockquote>
+    <i>"I am not in competition with anyone but myself. My goal is to improve myself continuously."</i><br>
+    <b>— Bill Gates</b>
+  </blockquote>
 
-  <br />
+  <p><b>Software Engineering Student | Focus on DevOps & Cloud</b></p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
 
   <!-- Social Badges Minimalistas no Tema Dracula -->
   <a href="https://www.linkedin.com/in/viniciussj77" target="_blank">
