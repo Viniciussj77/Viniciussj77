@@ -1,12 +1,10 @@
 <div align="center">
 
   # Hi 👋, I'm Vinícius José
- | |            "I am not in competition with anyone but myself. <br>
- | |  _  _      My goal is to improve myself continuously." <br>
- || ()(_)     — Bill Gates
-
+> *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
+  > **— Bill Gates**
   <p align="center">
-    <b>Software Engineering Student & Technology Enthusiast</b>
+    <b>Software Engineering Student & Software Engineering Student | Focus on DevOps & Cloud</b>
   </p>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates)](https://git.io/typing-svg)
