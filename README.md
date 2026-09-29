@@ -3,7 +3,17 @@
 - 📚 software engineering
 - 💻 Technology
 - 💭 "I am not in competition with anyone but myself. My goal is to improve myself continuously." (Bill Gates)
+  
 
+<div align="center">
+
+## 📊 Estatísticas do GitHub
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusJ77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusJ77&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
 <div align="center">
   <a href="https://github.com/Viniciussj77">
     <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
