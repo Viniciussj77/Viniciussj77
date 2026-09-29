@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinícius José 👋
 
-- 📚 Engenharia de Software
+- 📚 software engineering
 - 💻 Technology
 - 💭 "I am not in competition with anyone but myself. My goal is to improve myself continuously." (Bill Gates)
 
