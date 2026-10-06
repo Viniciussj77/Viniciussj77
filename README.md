@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi 👋, I'm Vinícius José
-> *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
+  > *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
   > **— Bill Gates**
 
   <p align="center">
@@ -31,36 +31,26 @@
 <br />
 
 ---
+
 <div align="center">
   <a href="https://github.com/Viniciussj77">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-steps:
-  - uses: actions/checkout@v3
+<br />
 
-  - name: Generate Snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<!-- Animação da Cobrinha de Commits -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-  - name: Push to output branch
-    uses: crazy-max/ghaction-github-pages@v3
-    with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-      2º parte dos códigos
-
-      <picture align="center">
-   
+<br />
 
 ### 🚀 About Me
 
