@@ -37,7 +37,29 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+steps:
+  - uses: actions/checkout@v3
 
+  - name: Generate Snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+  - name: Push to output branch
+    uses: crazy-max/ghaction-github-pages@v3
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      2º parte dos códigos
+
+      <picture align="center">
    
 
 ### 🚀 About Me
