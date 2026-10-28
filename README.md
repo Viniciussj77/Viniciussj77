@@ -44,9 +44,13 @@
 
 <br />
 
-<!-- Animação da Cobrinha de Commits (Gerada via GitHub Actions da branch 'output') -->
+<!-- Animação da Cobrinha de Commits (Suporte a Dark Mode e Light Mode) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br />
