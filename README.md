@@ -13,6 +13,7 @@
   <br />
 
   <!-- Social Badges Minimalistas no Tema Dracula -->
+
   <a href="https://www.linkedin.com/in/viniciussj77" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
   </a>
@@ -33,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/Viniciussj77">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula"/>
   </a>
   <a href="https://github.com/Viniciussj77">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
@@ -49,22 +50,15 @@
 
 <br />
 
-### 🚀 Tech Stack & Tools
+### 🚀 About Me
 
-<br />
+<br>
 
 <div align="center">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;
-  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  &nbsp;&nbsp;
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  &nbsp;&nbsp;
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  &nbsp;&nbsp;
   <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
