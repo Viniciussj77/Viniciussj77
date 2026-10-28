@@ -8,12 +8,13 @@
     <b>Software Engineering Student | Focus on DevOps & Cloud</b>
   </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates)](https://git.io/typing-svg)
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates" alt="Typing SVG" />
+  </p>
 
   <br />
 
   <!-- Social Badges Minimalistas no Tema Dracula -->
-
   <a href="https://www.linkedin.com/in/viniciussj77" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
   </a>
@@ -34,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/Viniciussj77">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&count_private=true"/>
   </a>
   <a href="https://github.com/Viniciussj77">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
