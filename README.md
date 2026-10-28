@@ -32,10 +32,9 @@
 
 ---
 
-<!-- GitHub Stats & Top Languages (Contando Commits Públicos e Privados) -->
 <div align="center">
   <a href="https://github.com/Viniciussj77">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula"/>
   </a>
   <a href="https://github.com/Viniciussj77">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
@@ -44,13 +43,9 @@
 
 <br />
 
-<!-- Animação da Cobrinha de Commits (Suporte a Dark Mode e Light Mode) -->
+<!-- Animação da Cobrinha de Commits -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
 </div>
 
 <br />
