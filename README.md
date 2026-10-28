@@ -34,7 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/Viniciussj77">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula"/>
+    <!-- Adicionado count_private=true para exibir os commits privados -->
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&count_private=true"/>
   </a>
   <a href="https://github.com/Viniciussj77">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
