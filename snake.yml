@@ -1,14 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Executa automaticamente a cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
-
-  # Permite execução manual na aba "Actions"
   workflow_dispatch:
-
-  # Executa também a cadapush no repositório de perfil
   push:
     branches:
       - main
@@ -18,13 +13,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essencial para commitar a cobrinha gerada de volta ao repositório
+      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Gera a animação da cobrinha incluindo commits privados
       - name: Generate the snake svg animation
         uses: Platane/snk@v3
         id: snake-to-svg
@@ -34,14 +28,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # TOKEN do GitHub padrão com permissão de leitura de repositórios privados da mesma conta
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Mostra o status do git para debug
-      - name: Show git status
-        run: git status
-
-      # Envia os arquivos gerados para a branch de saída (ex: output)
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
