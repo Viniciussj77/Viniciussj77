@@ -1,4 +1,3 @@
-
 <div align="center">
 
   # Hi 👋, I'm Vinícius José
@@ -33,12 +32,17 @@
 
 ---
 
+<br />
+
 <div align="center">
+  <!-- Card de Sequência e Contribuições Total (Corrigido) -->
   <a href="https://github.com/Viniciussj77">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula"/>
+    <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
   </a>
+  
+  <!-- Card de Linguagens Mais Usadas -->
   <a href="https://github.com/Viniciussj77">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
@@ -51,15 +55,17 @@
 
 <br />
 
-### 🚀 About Me
-
-<br>
-
 <div align="center">
+
+  ### 🚀 About Me
+
+  <br />
+
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+
 </div>
