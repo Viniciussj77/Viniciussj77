@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/Viniciussj77">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Viniciussj77">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
