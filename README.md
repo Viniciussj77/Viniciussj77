@@ -32,10 +32,12 @@
 
 ---
 
+<br />
+
 <div align="center">
-  <!-- Card de Sequência e Contribuições Total (Estável e compatível com o tema Dracula) -->
+  <!-- Card de Sequência e Contribuições Total (Corrigido) -->
   <a href="https://github.com/Viniciussj77">
-    <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true&date_format=j%2FM%2FYYYY"/>
+    <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
   </a>
   
   <!-- Card de Linguagens Mais Usadas -->
@@ -53,15 +55,17 @@
 
 <br />
 
-### 🚀 About Me
-
-<br>
-
 <div align="center">
+
+  ### 🚀 About Me
+
+  <br />
+
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+
 </div>
