@@ -67,9 +67,9 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats & Languages
+
+<div align="center">
 
 <a href="https://github.com/Viniciussj77">
   <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
@@ -89,15 +89,12 @@
 
 ## 🐍 Contribution Snake
 
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
-</div>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
 
 <br />
-
-
-<div align="center">
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" alt="Rodapé" width="100%" />
 
