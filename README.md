@@ -68,8 +68,6 @@
 
 ## 📊 GitHub Stats & Languages
 
-## 📊 GitHub Stats & Languages
-
 <div align="center">
 
 <a href="https://github.com/Viniciussj77">
