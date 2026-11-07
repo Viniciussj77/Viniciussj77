@@ -101,8 +101,12 @@
 
 <div align="center">
 
-### 💜 Continuous Learning | Continuous Improvement
+div align="center">
 
-**Thanks for visiting my profile!**
+```bash
+$ echo "Thanks for stopping by!"
+Thanks for stopping by!
+$ git commit -m "Still learning, still building 🚀"
+```
 
 </div>
