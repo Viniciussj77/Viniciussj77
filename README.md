@@ -72,9 +72,6 @@
 <a href="https://github.com/Viniciussj77">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true"/>
 </a>
-<a href="https://github.com/Viniciussj77">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</a>
 
 <br><br>
 
@@ -88,13 +85,21 @@
 
 <div align="center">
 
-## 🗣️ Languages I've Worked With
+## 🗣️ Most Used Languages
 
-<a href="https://github.com/Viniciussj77?tab=repositories">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=donut&langs_count=8&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&card_width=420"/>
-</a>
+<img src="./languages-card.svg" alt="Most used languages, updated automatically" />
 
-<sub>Calculated from the code in my public repositories (bytes per language).</sub>
+<sub>Updated automatically from my repositories.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 My Skills
+
+<img src="./skills-card.svg" alt="My skills with percentage levels" />
 
 </div>
 
