@@ -35,14 +35,14 @@
 <br />
 
 <div align="center">
-  <!-- Card de Sequência e Contribuições Total (Corrigido) -->
+  <!-- Card de Sequência e Contribuições Total -->
   <a href="https://github.com/Viniciussj77">
     <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="Streak Stats"/>
   </a>
   
-  <!-- Card de Linguagens Mais Usadas com Porcentagem (Servidor de Produção Alternativo sem limite Vercel) -->
+  <!-- Card de Linguagens Mais Usadas com Porcentagem (Instância Estável Alternativa) -->
   <a href="https://github.com/Viniciussj77">
-    <img height="165em" src="https://github-readme-stats-git-master-rstac.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Most Used Languages"/>
+    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Most Used Languages"/>
   </a>
 </div>
 
