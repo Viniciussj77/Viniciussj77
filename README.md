@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Exploring+DevOps+%26+Cloud...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=550&lines=Building+software+solutions...;Learning+and+improving+everyday...;Exploring+DevOps+%26+Cloud...)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,7 +19,7 @@
 <a href="https://instagram.com/viniciussj77">
   <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram">
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vjbezerra2007@gmail.com">
+<a href="mailto:vjbezerra2007@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail">
 </a>
 
@@ -43,9 +43,9 @@
 
 <div align="center">
 
-## 💻 Programming Languages
+## 💻 Tech Stack
 
-### Languages I Work With
+### Programming Languages
 
 <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9" alt="Python">
 <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="C">
@@ -58,23 +58,6 @@
 <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS3">
 
-</div>
+### Tools & Technologies
 
----
-
-<!-- Animação da Cobrinha de Commits -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
-</div>
-
-<br />
-
-
-
-<div align="center">
-
-## 🛠️ Tools & Technologies
-
-<img src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=F1FA8C" alt="Linux">
-<img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF5555" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-282A36?
+<img src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logo
