@@ -67,37 +67,37 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
+
+## 📊 GitHub Stats & Languages
 
 <a href="https://github.com/Viniciussj77">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
+  <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/Viniciussj77">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Most Used Languages">
-</a>
-
-<br><br>
-
-<a href="https://github.com/Viniciussj77">
-  <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Programming Languages Statistics" />
 </a>
 
 </div>
 
+<br />
+
 ---
+
+<div align="center">
 
 ## 🐍 Contribution Snake
 
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
 </div>
 
----
+<br />
+
+<div align="center">
+
 
 <div align="center">
 
