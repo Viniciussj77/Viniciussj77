@@ -62,6 +62,15 @@
 
 ---
 
+<!-- Animação da Cobrinha de Commits -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
+</div>
+
+<br />
+
+
+
 <div align="center">
 
 ## 🛠️ Tools & Technologies
