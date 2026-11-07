@@ -96,17 +96,9 @@
 
 <br />
 
-<div align="center">
-
 
 <div align="center">
 
-div align="center">
-
-bash
-$ echo "Thanks for stopping by!"
-Thanks for stopping by!
-$ git commit -m "Still learning, still building 🚀"
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" alt="Rodapé" width="100%" />
 
 </div>
