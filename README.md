@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://github.com/Viniciussj77">
-  <img height="205" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Programming Languages Statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Programming Languages Statistics" />
 </a>
 
 </div>
