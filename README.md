@@ -4,7 +4,7 @@
 
 ### Software Engineering Student | DevOps & Cloud Enthusiast
 
-> *"I am not in competition with anyone but myself. My goal is to improve myself continuously.*  
+> *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
 > **— Bill Gates**
 
 <br>
@@ -47,66 +47,25 @@
 
 ### Languages I Work With
 
-<img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9">
-<img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD">
-<img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C">
-<img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=FF79C6">
-<img src="https://img.shields.io/badge/Bash-282A36?style=for-the-badge&logo=gnubash&logoColor=50FA7B">
+<img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9" alt="Python">
+<img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="C">
+<img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=FF79C6" alt="SQL">
+<img src="https://img.shields.io/badge/Bash-282A36?style=for-the-badge&logo=gnubash&logoColor=50FA7B" alt="Bash">
 
 ### Web Development
 
-<img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555">
-<img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD">
+<img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS3">
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tools & Technologies
 
-<img src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=F1FA8C">
-<img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF5555">
-<img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9">
-<img src="https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=8BE9FD">
-<img src="https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=8BE9FD">
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<a href="https://github.com/Viniciussj77">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&hide_border=true&count_private=false"/>
-</a>
-<a href="https://github.com/Viniciussj77">
-  <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Viniciussj77">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contributions
-
-<img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Continuous Improvement
-
-*Learning, building and evolving every day.*
-
-</div>
+<img src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=F1FA8C" alt="Linux">
+<img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF5555" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-282A36?
