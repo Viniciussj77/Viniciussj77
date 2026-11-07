@@ -4,7 +4,7 @@
 
 ### Software Engineering Student | DevOps & Cloud Enthusiast
 
-> *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
+> *"I am not in competition with anyone but myself. My goal is to improve myself continuously.*  
 > **— Bill Gates**
 
 <br>
@@ -14,13 +14,13 @@
 <br>
 
 <a href="https://www.linkedin.com/in/viniciussj77">
-  <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9">
+  <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn">
 </a>
 <a href="https://instagram.com/viniciussj77">
-  <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6">
+  <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram">
 </a>
-<a href="mailto:vjbezerra2007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vjbezerra2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail">
 </a>
 
 </div>
@@ -77,7 +77,16 @@
 ## 📊 GitHub Statistics
 
 <a href="https://github.com/Viniciussj77">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&hide_border=true&count_private=false"/>
+</a>
+<a href="https://github.com/Viniciussj77">
   <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Viniciussj77">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </a>
 
 </div>
@@ -88,7 +97,7 @@
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
