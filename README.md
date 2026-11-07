@@ -83,7 +83,7 @@
 
 ## ☁️ DevOps, Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,aws,terraform&theme=dark" alt="DevOps & Cloud" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,&theme=dark" alt="DevOps & Cloud" />
 
 </div>
 
