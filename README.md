@@ -15,7 +15,7 @@
     </a>
   </p>
 
-  <!-- Social Badges - Dracula Theme -->
+  <!-- Social Badges Minimalistas no Tema Dracula -->
   <p>
     <a href="https://www.linkedin.com/in/viniciussj77" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
@@ -37,11 +37,11 @@
   ### 📊 GitHub Stats & Languages
 
   <p>
-    <!-- Streak Stats -->
+    <!-- Card de Sequência (Streak Stats) -->
     <a href="https://github.com/Viniciussj77">
       <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </a>
-    <!-- Card de linguagens (SVG local, sem API) -->
+    <!-- Card Customizado de Linguagens Mais Usadas (SVG Gerado) -->
     <img height="165" src="languages-card.svg" alt="Most Used Languages" />
   </p>
 
@@ -64,4 +64,13 @@
   ### 🚀 Tech Stack & Skills
 
   <p>
-    <!-- Languages, Databases and Web -->
+    <!-- Linha 1: Linguagens e Banco de Dados -->
+    <img src="https://skillicons.dev/icons?i=python,c,javascript,mysql,html,css&theme=dark" alt="Languages & Databases" />
+  </p>
+
+  <p>
+    <!-- Linha 2: DevOps, Cloud e Ferramentas -->
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,aws,terraform&theme=dark" alt="DevOps & Cloud" />
+  </p>
+
+</div>
