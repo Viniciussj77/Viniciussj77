@@ -69,13 +69,13 @@
 ## 🚀 About Me
 
 <p>
- - 🎓 Estudante de Engenharia de Software.
-- 🚀 Interesse profissional em DevOps e Cloud Computing.
-- 💻 Desenvolvendo conhecimentos em programação.
-- 🔧 Aprendendo Git e GitHub.
-- 🐧 Estudando Linux.
-- 🐳 Desenvolvendo conhecimentos em Docker.
-- 📚 Comprometido com o aprendizado contínuo e a evolução profissional.
+ - 🎓 Estudante de Engenharia de Software. <br>
+- 🚀 Interesse profissional em DevOps e Cloud Computing. <br>
+- 💻 Desenvolvendo conhecimentos em programação. <br>
+- 🔧 Aprendendo Git e GitHub. <br>
+- 🐧 Estudando Linux. <br>
+- 🐳 Desenvolvendo conhecimentos em Docker. <br>
+- 📚 Comprometido com o aprendizado contínuo e a evolução profissional. <br>
 </p>
 
 <br />
