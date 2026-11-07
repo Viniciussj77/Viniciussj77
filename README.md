@@ -95,6 +95,8 @@
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" alt="Rodapé" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=footer&text=Vinícius%20José&fontSize=28&fontColor=BD93F9&fontAlignY=52&desc=Software%20Engineering%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud&descSize=13&descColor=FF79C6&descAlignY=74&stroke=BD93F9&strokeWidth=1.5" alt="Rodapé Dracula" width="100%" />
 
 </div>
