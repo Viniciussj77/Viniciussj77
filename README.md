@@ -39,11 +39,23 @@
   <a href="https://github.com/Viniciussj77">
     <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
   </a>
-  
-  <!-- Card de Linguagens Mais Usadas -->
-  <a href="https://github.com/Viniciussj77">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  </a>
+</div>
+
+<br />
+
+<div align="center">
+
+  ### 🛠️ Languages & Technologies
+
+  <!-- Badges estáticas das linguagens sem depender de API externa -->
+  <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9" alt="Python" />
+  <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="C" />
+  <img src="https://img.shields.io/badge/Bash-282A36?style=for-the-badge&logo=gnu-bash&logoColor=50FA7B" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=FF79C6" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS3" />
+
 </div>
 
 <br />
@@ -57,17 +69,14 @@
 
 <div align="center">
 
-  ### 🚀 Tech Stack & Skills
+  ### 🚀 About Me
 
   <br />
 
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-  <img alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 
