@@ -68,12 +68,14 @@
 
 ## 📊 GitHub Stats & Languages
 
+## 📊 GitHub Stats & Languages
+
 <div align="center">
 
 <a href="https://github.com/Viniciussj77">
-  <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="140" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Viniciussj77">
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Programming Languages Statistics" />
 </a>
@@ -83,9 +85,6 @@
 <br />
 
 ---
-
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 <br>
