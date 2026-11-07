@@ -47,17 +47,73 @@
 
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9" alt="Python">
-<img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="C">
-<img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" alt="JavaScript">
-<img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=FF79C6" alt="SQL">
-<img src="https://img.shields.io/badge/Bash-282A36?style=for-the-badge&logo=gnubash&logoColor=50FA7B" alt="Bash">
+<img src="https://skillicons.dev/icons?i=python,c,js,mysql,bash&theme=dark" alt="Python, C, JavaScript, SQL, Bash" />
 
 ### Web Development
 
-<img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS3">
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML5, CSS3" />
 
 ### Tools & Technologies
 
-<img src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logo
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,mysql,vscode&theme=dark" alt="Linux, Git, GitHub, Docker, MySQL, VS Code" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=aws,githubactions&theme=dark" alt="AWS, CI/CD" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<a href="https://github.com/Viniciussj77">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/Viniciussj77">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Viniciussj77">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗣️ Languages I've Worked With
+
+<a href="https://github.com/Viniciussj77?tab=repositories">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=donut&langs_count=8&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&card_width=420"/>
+</a>
+
+<sub>Calculated from the code in my public repositories (bytes per language).</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation">
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Continuous Learning | Continuous Improvement
+
+**Thanks for visiting my profile!**
+
+</div>
