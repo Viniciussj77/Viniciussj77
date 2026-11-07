@@ -37,6 +37,16 @@
 
 ---
 
+### 💻 Most Used Languages
+
+<div align="center">
+
+  <img src="./assets/languages.svg" alt="Most Used Languages" width="500"/>
+
+</div>
+
+---
+
 ### 🛠️ Languages & Technologies
 
 <div align="center">
