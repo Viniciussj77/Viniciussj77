@@ -34,17 +34,18 @@
 
 <div align="center">
 
-  ### 📊 GitHub Stats
+  ### 📊 GitHub Stats & Languages
 
   <p>
-    <!-- Card de Sequência e Contribuições Total -->
+    <!-- Card de Sequência (Streak Stats) -->
     <a href="https://github.com/Viniciussj77">
       <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </a>
-    <!-- Card de Linguagens Mais Usadas -->
-    <a href="https://github.com/Viniciussj77">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Langs" />
-    </a>
+  </p>
+
+  <p>
+    <!-- Card Customizado de Linguagens Mais Usadas gerado pelo seu script Python -->
+    <img src="languages-card.svg" alt="Most Used Languages" />
   </p>
 
 </div>
