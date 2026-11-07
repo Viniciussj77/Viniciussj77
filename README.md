@@ -69,8 +69,13 @@
 ## 🚀 About Me
 
 <p>
-  Software Engineering student interested in DevOps, Cloud Computing
-  and continuous learning.
+ - 🎓 Estudante de Engenharia de Software.
+- 🚀 Interesse profissional em DevOps e Cloud Computing.
+- 💻 Desenvolvendo conhecimentos em programação.
+- 🔧 Aprendendo Git e GitHub.
+- 🐧 Estudando Linux.
+- 🐳 Desenvolvendo conhecimentos em Docker.
+- 📚 Comprometido com o aprendizado contínuo e a evolução profissional.
 </p>
 
 <br />
