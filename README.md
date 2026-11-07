@@ -1,71 +1,110 @@
 <div align="center">
 
-  # Hi 👋, I'm Vinícius José
-  > *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
-  > **— Bill Gates**
+# Hi 👋, I'm Vinícius José
 
-  <p align="center">
-    <b>Software Engineering Student | Focus on DevOps & Cloud</b>
-  </p>
+> *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*
+>
+> **— Bill Gates**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates)](https://git.io/typing-svg)
+### Software Engineering Student | Focus on DevOps & Cloud
 
-  <br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Building+software+solutions...;Learning+and+improving+everyday...;Continuous+Improvement+%7C+Bill+Gates)](https://git.io/typing-svg)
 
-  <!-- Social Badges Minimalistas no Tema Dracula -->
+<br>
 
-  <a href="https://www.linkedin.com/in/viniciussj77" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
-  </a>
+<!-- SOCIAL MEDIA -->
 
-  <a href="https://instagram.com/viniciussj77" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram" />
-  </a>
+<a href="https://www.linkedin.com/in/viniciussj77">
+<img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9">
+</a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vjbezerra2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail" />
-  </a>
+<a href="https://instagram.com/viniciussj77">
+<img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6">
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vjbezerra2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD">
+</a>
 
 </div>
-
-<br />
 
 ---
 
-<br />
+<!-- GITHUB STATISTICS -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <!-- Card de Sequência e Contribuições Total (Corrigido) -->
-  <a href="https://github.com/Viniciussj77">
-    <img height="165em" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true"/>
-  </a>
-  
-  <!-- Card de Linguagens Mais Usadas -->
-  <a href="https://github.com/Viniciussj77">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Viniciussj77&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
+
+<img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true">
+
 </div>
 
-<br />
+<br>
 
-<!-- Animação da Cobrinha de Commits -->
+<!-- MOST USED LANGUAGES -->
+
+<h2 align="center">💻 Most Used Languages</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Viniciussj77" alt="Snake Animation" />
+
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true&card_width=400"
+    alt="Most Used Languages"
+    height="165"
+/>
+
 </div>
 
-<br />
+---
+
+<!-- TECHNOLOGIES -->
+
+<h2 align="center">🚀 Languages & Technologies</h2>
 
 <div align="center">
 
-  ### 🚀 About Me
+### Programming Languages
 
-  <br />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<br><br>
+
+### Web Development
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<br><br>
+
+### Database
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+<br><br>
+
+### DevOps & Cloud
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
