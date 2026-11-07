@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Vinícius José
 
-### Software Engineering Student | Aspiring DevOps Engineer | Cloud Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=100000&repeat=false&color=BD93F9&center=true&vCenter=true&width=750&height=40&lines=Software+Engineering+Student+%7C+Focus+on+DevOps+%26+Cloud" alt="Software Engineering Student | Focus on DevOps & Cloud">
 
 > *"I am not in competition with anyone but myself. My goal is to improve myself continuously."*  
 > **— Bill Gates**
