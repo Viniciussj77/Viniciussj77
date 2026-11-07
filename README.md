@@ -63,15 +63,11 @@
 
 <div align="center">
 
-  ### 🚀 About Me
+  ### 🚀 Tech Stack & Skills
 
   <p>
-    <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-    <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+    <!-- Cards de Habilidades com Skill Icons (Tema Escuro) -->
+    <img src="https://skillicons.dev/icons?i=python,c,bash,mysql,javascript,html,css,docker,linux&theme=dark" alt="Tech Stack" />
   </p>
 
 </div>
