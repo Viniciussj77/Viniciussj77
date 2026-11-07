@@ -15,19 +15,23 @@
   </a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/viniciussj77">
-    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/viniciussj77">
-    <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vjbezerra2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail" />
-  </a>
-</p>
+<br />
+
+<a href="https://www.linkedin.com/in/viniciussj77">
+  <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9" alt="LinkedIn" />
+</a>
+
+<a href="https://instagram.com/viniciussj77">
+  <img src="https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=FF79C6" alt="Instagram" />
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vjbezerra2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Gmail" />
+</a>
 
 </div>
+
+<br />
 
 ---
 
@@ -40,10 +44,12 @@
 </a>
 
 <a href="https://github.com/Viniciussj77">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Programming Languages Statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciussj77&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Programming Languages Statistics" />
 </a>
 
 </div>
+
+<br />
 
 ---
 
@@ -55,21 +61,34 @@
 
 </div>
 
+<br />
+
 ---
 
 <div align="center">
 
-## 🚀 Tech Stack & Skills
+## 🚀 About Me
 
-### 💻 Programming Languages & Databases
+<p>
+  Software Engineering student interested in DevOps, Cloud Computing
+  and continuous learning.
+</p>
+
+<br />
+
+## 💻 Programming Languages & Databases
 
 <img src="https://skillicons.dev/icons?i=python,c,javascript,mysql,html,css&theme=dark" alt="Languages & Databases" />
 
-### ☁️ DevOps, Cloud & Tools
+<br /><br />
+
+## ☁️ DevOps, Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,aws,terraform&theme=dark" alt="DevOps & Cloud" />
 
 </div>
+
+<br />
 
 ---
 
