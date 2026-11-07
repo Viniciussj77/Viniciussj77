@@ -42,11 +42,19 @@
       <img height="165" src="https://streak-stats.demolab.com?user=Viniciussj77&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </a>
     <!-- Card Customizado de Linguagens Mais Usadas (SVG Gerado) -->
-    <img height="165" src="languages-card.svg" alt="Most Used Languages" />
-  </p>
+   
+</div>
+<div align="center">
+
+## 📊 Programming Languages Statistics
+
+<img
+  src="https://raw.githubusercontent.com/Viniciussj77/Viniciussj77/main/languages-card.svg"
+  alt="Programming Languages Statistics"
+  width="600"
+/>
 
 </div>
-
 ---
 
 <div align="center">
