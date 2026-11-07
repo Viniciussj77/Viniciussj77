@@ -29,13 +29,13 @@
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering student.
-- ☁️ Interested in building a career in DevOps and Cloud Computing.
-- 💻 Developing programming skills.
-- 🔧 Learning Git and GitHub.
-- 🐧 Studying Linux and system administration.
-- 🐳 Exploring Docker and containerization.
-- 📚 Focused on continuous learning and professional growth.
+- 🎓 Software Engineering student, currently in the early stages of my academic journey.
+- ☁️ Building my professional path toward DevOps and Cloud Computing.
+- 💻 Developing programming and problem-solving skills through academic and practical projects.
+- 🔧 Learning Git and GitHub for version control and collaborative development.
+- 🐧 Studying Linux, command-line tools and system administration.
+- 🐳 Exploring Docker and containerization concepts.
+- 📚 Focused on strengthening my technical foundation and continuously improving my skills.
 
 ---
 
