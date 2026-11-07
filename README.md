@@ -66,8 +66,13 @@
   ### 🚀 Tech Stack & Skills
 
   <p>
-    <!-- Cards de Habilidades com Skill Icons (Tema Escuro) -->
-    <img src="https://skillicons.dev/icons?i=python,c,bash,mysql,javascript,html,css,docker,linux&theme=dark" alt="Tech Stack" />
+    <!-- Linha 1: Linguagens, Banco de Dados e Web -->
+    <img src="https://skillicons.dev/icons?i=python,c,javascript,mysql,html,css&theme=dark" alt="Languages & Databases" />
+  </p>
+  
+  <p>
+    <!-- Linha 2: DevOps, Cloud, Containers e Ferramentas -->
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,aws,terraform&theme=dark" alt="DevOps & Cloud" />
   </p>
 
 </div>
