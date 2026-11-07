@@ -103,7 +103,7 @@
 
 div align="center">
 
-```bash
+bash
 $ echo "Thanks for stopping by!"
 Thanks for stopping by!
 $ git commit -m "Still learning, still building 🚀"
